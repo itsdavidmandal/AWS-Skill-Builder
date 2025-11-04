@@ -45,5 +45,17 @@ The main goal of a machine learning model is to address a business problem. And 
 
 In this stage , we ask the questions as , which model and learning algortihm should be used for the business problem that is at hand. 
 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
 
 
