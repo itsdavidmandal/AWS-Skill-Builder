@@ -40,3 +40,61 @@ It is the model's sensitivity to small changes in the training data.
 
 High variance means that the model is too complex. The model will perform well on the training data but badly on the new unseen data . 
 
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+### Challenges of Generative AI : 
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+## Core dimensions of Responsible AI : 
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+# Developing responsible AI systems : 
+
+### Amazon Services and Tools for Responsible AI : 
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+
+
